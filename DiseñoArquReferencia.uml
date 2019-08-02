@@ -1326,8 +1326,8 @@
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">168</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">220</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">80</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">43</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">84</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">56</XPD:ATTR>
 <XPD:REF name="Model">JHErwR58FUm/PjeD69u2zwAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="L3h283SaaECTkomt+kDxTAAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="qwGXT8+d1U6RY/Aqd242hAAA">
@@ -2227,6 +2227,12 @@
 <XPD:REF name="Views[1]">A4NJMaNzPUuxoFh/hhK9AwAA</XPD:REF>
 <XPD:REF name="Views[2]">q7LeDK9HqEebxvg7BuYmnQAA</XPD:REF>
 <XPD:REF name="Views[3]">gCRhn6ogmEaOUSVGYGPcpAAA</XPD:REF>
+<XPD:ATTR name="#Attributes" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="hUD1mg2FYEOa23QE5X3q4QAA">
+<XPD:ATTR name="Name" type="string">Genero</XPD:ATTR>
+<XPD:ATTR name="TypeExpression" type="string">lgtby</XPD:ATTR>
+<XPD:REF name="Owner">JHErwR58FUm/PjeD69u2zwAA</XPD:REF>
+</XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[3]" type="UMLModel" guid="9Mz2wQXmmEuYXmyyuwnSlAAA">
