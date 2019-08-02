@@ -379,7 +379,7 @@
 <XPD:OBJ name="DiagramView" type="UMLClassDiagramView" guid="/zW14AO6MUOiem0xDuuNIwAA">
 <XPD:REF name="Model">ntuS3wTZb0yjSMPSfx4z3QAA</XPD:REF>
 <XPD:REF name="Diagram">ntuS3wTZb0yjSMPSfx4z3QAA</XPD:REF>
-<XPD:ATTR name="#OwnedViews" type="integer">21</XPD:ATTR>
+<XPD:ATTR name="#OwnedViews" type="integer">22</XPD:ATTR>
 <XPD:OBJ name="OwnedViews[0]" type="UMLPackageView" guid="gmSGq/6cVUG5fh0hPWHyjAAA">
 <XPD:ATTR name="LineColor" type="string">$FFFFFFFF</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">14</XPD:ATTR>
@@ -1321,9 +1321,40 @@
 <XPD:REF name="Model">bE0ANq7kh0en4cvgtSx8gQAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
+<XPD:OBJ name="OwnedViews[21]" type="UMLClassView" guid="EYcnyeWrGEyRIIDEk/6FLQAA">
+<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
+<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">168</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">220</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">80</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">43</XPD:ATTR>
+<XPD:REF name="Model">JHErwR58FUm/PjeD69u2zwAA</XPD:REF>
+<XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="L3h283SaaECTkomt+kDxTAAA">
+<XPD:OBJ name="NameLabel" type="LabelView" guid="qwGXT8+d1U6RY/Aqd242hAAA">
+<XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Hola Daniel</XPD:ATTR>
+</XPD:OBJ>
+<XPD:OBJ name="StereotypeLabel" type="LabelView" guid="jJeDtOCQiEKv22JtkQrpYwAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+</XPD:OBJ>
+<XPD:OBJ name="PropertyLabel" type="LabelView" guid="kDqCX2+G9kGO2S0C7GeKUwAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:ATTR name="#OwnedElements" type="integer">22</XPD:ATTR>
+<XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="A4NJMaNzPUuxoFh/hhK9AwAA">
+<XPD:REF name="Model">JHErwR58FUm/PjeD69u2zwAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="OperationCompartment" type="UMLOperationCompartmentView" guid="q7LeDK9HqEebxvg7BuYmnQAA">
+<XPD:REF name="Model">JHErwR58FUm/PjeD69u2zwAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="TemplateParameterCompartment" type="UMLTemplateParameterCompartmentView" guid="gCRhn6ogmEaOUSVGYGPcpAAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:REF name="Model">JHErwR58FUm/PjeD69u2zwAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:ATTR name="#OwnedElements" type="integer">23</XPD:ATTR>
 <XPD:OBJ name="OwnedElements[0]" type="UMLPackage" guid="sU2xOBBYykCiesa1Nb4o6QAA">
 <XPD:ATTR name="Name" type="string">MVC</XPD:ATTR>
 <XPD:REF name="Namespace">EB3I8lIMdkSdXxLH+1jnoQAA</XPD:REF>
@@ -2187,6 +2218,15 @@
 <XPD:REF name="Views[1]">FS6pJmkWhEi6VBqkJ14zbQAA</XPD:REF>
 <XPD:REF name="Views[2]">Xpnpkfj1KEOeJ6WYN81H4wAA</XPD:REF>
 <XPD:REF name="Views[3]">Fw9dpi7IckSBDFK3ifAetQAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="OwnedElements[22]" type="UMLClass" guid="JHErwR58FUm/PjeD69u2zwAA">
+<XPD:ATTR name="Name" type="string">Hola Daniel</XPD:ATTR>
+<XPD:REF name="Namespace">EB3I8lIMdkSdXxLH+1jnoQAA</XPD:REF>
+<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
+<XPD:REF name="Views[0]">EYcnyeWrGEyRIIDEk/6FLQAA</XPD:REF>
+<XPD:REF name="Views[1]">A4NJMaNzPUuxoFh/hhK9AwAA</XPD:REF>
+<XPD:REF name="Views[2]">q7LeDK9HqEebxvg7BuYmnQAA</XPD:REF>
+<XPD:REF name="Views[3]">gCRhn6ogmEaOUSVGYGPcpAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[3]" type="UMLModel" guid="9Mz2wQXmmEuYXmyyuwnSlAAA">
