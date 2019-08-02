@@ -1290,40 +1290,33 @@
 <XPD:REF name="Model">krLB9dkrO024zP/YZWE6xwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[20]" type="UMLClassView" guid="6SkYm/TGBkmpUS3dX9TffAAA">
+<XPD:OBJ name="OwnedViews[20]" type="UMLSubsystemView" guid="/kAbjlI7wU2RJn9UVpB3uwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">128</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">124</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">86</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">43</XPD:ATTR>
-<XPD:REF name="Model">bE0ANq7kh0en4cvgtSx8gQAA</XPD:REF>
-<XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="KxAKd2H70ky/hSY5i4mdKwAA">
-<XPD:OBJ name="NameLabel" type="LabelView" guid="ulX2SmxcBkepk2PCzSjUcAAA">
+<XPD:ATTR name="Left" type="integer">216</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">112</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">120</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">70</XPD:ATTR>
+<XPD:REF name="Model">pWqyFKkp5EKQErJHlKpy+gAA</XPD:REF>
+<XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="SAeULM0YPUCU0hLlxcVZqAAA">
+<XPD:OBJ name="NameLabel" type="LabelView" guid="8aGHjXBKaEyUmaFTIwUPaQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">hola</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Subsystem1</XPD:ATTR>
 </XPD:OBJ>
-<XPD:OBJ name="StereotypeLabel" type="LabelView" guid="UX/GJ2fuNkWwsbCOwN12KgAA">
+<XPD:OBJ name="StereotypeLabel" type="LabelView" guid="DdELWg525EKgQH8kJAvw8AAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
 </XPD:OBJ>
-<XPD:OBJ name="PropertyLabel" type="LabelView" guid="WryNKEYQL0unF6xzya1tmgAA">
+<XPD:OBJ name="PropertyLabel" type="LabelView" guid="ZlmAfRPAdUi10V94oyj//gAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="FS6pJmkWhEi6VBqkJ14zbQAA">
-<XPD:REF name="Model">bE0ANq7kh0en4cvgtSx8gQAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="OperationCompartment" type="UMLOperationCompartmentView" guid="Xpnpkfj1KEOeJ6WYN81H4wAA">
-<XPD:REF name="Model">bE0ANq7kh0en4cvgtSx8gQAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="TemplateParameterCompartment" type="UMLTemplateParameterCompartmentView" guid="Fw9dpi7IckSBDFK3ifAetQAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:REF name="Model">bE0ANq7kh0en4cvgtSx8gQAA</XPD:REF>
+<XPD:OBJ name="OperationCompartment" type="UMLOperationCompartmentView" guid="ohYHd01bbUuifnOzv1AOWQAA">
+<XPD:REF name="Model">pWqyFKkp5EKQErJHlKpy+gAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:ATTR name="#OwnedElements" type="integer">22</XPD:ATTR>
+<XPD:ATTR name="#OwnedElements" type="integer">21</XPD:ATTR>
 <XPD:OBJ name="OwnedElements[0]" type="UMLPackage" guid="sU2xOBBYykCiesa1Nb4o6QAA">
 <XPD:ATTR name="Name" type="string">MVC</XPD:ATTR>
 <XPD:REF name="Namespace">EB3I8lIMdkSdXxLH+1jnoQAA</XPD:REF>
@@ -2178,15 +2171,9 @@
 <XPD:OBJ name="OwnedElements[20]" type="UMLSubsystem" guid="pWqyFKkp5EKQErJHlKpy+gAA">
 <XPD:ATTR name="Name" type="string">Subsystem1</XPD:ATTR>
 <XPD:REF name="Namespace">EB3I8lIMdkSdXxLH+1jnoQAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="OwnedElements[21]" type="UMLClass" guid="bE0ANq7kh0en4cvgtSx8gQAA">
-<XPD:ATTR name="Name" type="string">hola</XPD:ATTR>
-<XPD:REF name="Namespace">EB3I8lIMdkSdXxLH+1jnoQAA</XPD:REF>
-<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
-<XPD:REF name="Views[0]">6SkYm/TGBkmpUS3dX9TffAAA</XPD:REF>
-<XPD:REF name="Views[1]">FS6pJmkWhEi6VBqkJ14zbQAA</XPD:REF>
-<XPD:REF name="Views[2]">Xpnpkfj1KEOeJ6WYN81H4wAA</XPD:REF>
-<XPD:REF name="Views[3]">Fw9dpi7IckSBDFK3ifAetQAA</XPD:REF>
+<XPD:ATTR name="#Views" type="integer">2</XPD:ATTR>
+<XPD:REF name="Views[0]">/kAbjlI7wU2RJn9UVpB3uwAA</XPD:REF>
+<XPD:REF name="Views[1]">ohYHd01bbUuifnOzv1AOWQAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[3]" type="UMLModel" guid="9Mz2wQXmmEuYXmyyuwnSlAAA">
