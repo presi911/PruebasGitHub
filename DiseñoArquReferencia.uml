@@ -5,6 +5,11 @@
 </XPD:SUBUNITS>
 <XPD:PROFILES>
 <XPD:PROFILE>UMLStandard</XPD:PROFILE>
+<XPD:PROFILE>ERD</XPD:PROFILE>
+<XPD:PROFILE>Cpp</XPD:PROFILE>
+<XPD:PROFILE>CSharp</XPD:PROFILE>
+<XPD:PROFILE>Java</XPD:PROFILE>
+<XPD:PROFILE>EJB</XPD:PROFILE>
 </XPD:PROFILES>
 </XPD:HEADER>
 <XPD:BODY>
@@ -1812,14 +1817,15 @@
 <XPD:ATTR name="Name" type="string">Espacio</XPD:ATTR>
 <XPD:REF name="Namespace">CGa8U00zYUqJFw0NaibAMwAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">8</XPD:ATTR>
-<XPD:REF name="Views[0]">npNWDhKGCEWm1fOruWtD9wAA</XPD:REF>
-<XPD:REF name="Views[1]">RJwhZl8miEaymggbUCrFZAAA</XPD:REF>
-<XPD:REF name="Views[2]">yPl2O+ikAEKLBLUWxdlHCgAA</XPD:REF>
-<XPD:REF name="Views[3]">hVauZgJTdEeHpfCv/14yhwAA</XPD:REF>
-<XPD:REF name="Views[4]">0mwWB9GGw0+Iab1I61G38AAA</XPD:REF>
-<XPD:REF name="Views[5]">2xzdL1Sn4UOP2a0PatAz2QAA</XPD:REF>
 <XPD:REF name="Views[6]">OaPGaEA800u1KrTjLgGoqgAA</XPD:REF>
-<XPD:REF name="Views[7]">4A+Amu/Fe0GkEzTUZipfVAAA</XPD:REF>
+<XPD:REF name="Views[0]">0mwWB9GGw0+Iab1I61G38AAA</XPD:REF>
+<XPD:REF name="Views[1]">2xzdL1Sn4UOP2a0PatAz2QAA</XPD:REF>
+<XPD:REF name="Views[2]">OaPGaEA800u1KrTjLgGoqgAA</XPD:REF>
+<XPD:REF name="Views[3]">4A+Amu/Fe0GkEzTUZipfVAAA</XPD:REF>
+<XPD:REF name="Views[4]">npNWDhKGCEWm1fOruWtD9wAA</XPD:REF>
+<XPD:REF name="Views[5]">RJwhZl8miEaymggbUCrFZAAA</XPD:REF>
+<XPD:REF name="Views[6]">yPl2O+ikAEKLBLUWxdlHCgAA</XPD:REF>
+<XPD:REF name="Views[7]">hVauZgJTdEeHpfCv/14yhwAA</XPD:REF>
 <XPD:ATTR name="#Operations" type="integer">8</XPD:ATTR>
 <XPD:OBJ name="Operations[0]" type="UMLOperation" guid="wtc4E4tBhkiBxNP8ibcX9AAA">
 <XPD:ATTR name="Name" type="string">OcuparEspacio</XPD:ATTR>
@@ -2251,14 +2257,14 @@
 <XPD:ATTR name="Name" type="string">GestionarAsignacionDeEspacios</XPD:ATTR>
 <XPD:REF name="Namespace">/a96WCZX5kmcYEcy2YGSdgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">8</XPD:ATTR>
-<XPD:REF name="Views[0]">Hh6UDQ89ZESaFGjbnANAtQAA</XPD:REF>
-<XPD:REF name="Views[1]">13cYR2qaWUWLQOmbREr/XgAA</XPD:REF>
-<XPD:REF name="Views[2]">meZKarEIfUyI9wYH81loRwAA</XPD:REF>
-<XPD:REF name="Views[3]">LSqxpRA2gEGw6sCqFGUGNwAA</XPD:REF>
-<XPD:REF name="Views[4]">ukOs6m881UKpjio3ztlGWgAA</XPD:REF>
-<XPD:REF name="Views[5]">MjKloyhgxUOqRAycmzVZ7wAA</XPD:REF>
-<XPD:REF name="Views[6]">WOYYj/xtWkiG/Tvvz5MS/AAA</XPD:REF>
-<XPD:REF name="Views[7]">nN7sETt0B0qUzgNW3vR9hQAA</XPD:REF>
+<XPD:REF name="Views[0]">ukOs6m881UKpjio3ztlGWgAA</XPD:REF>
+<XPD:REF name="Views[1]">MjKloyhgxUOqRAycmzVZ7wAA</XPD:REF>
+<XPD:REF name="Views[2]">WOYYj/xtWkiG/Tvvz5MS/AAA</XPD:REF>
+<XPD:REF name="Views[3]">nN7sETt0B0qUzgNW3vR9hQAA</XPD:REF>
+<XPD:REF name="Views[4]">Hh6UDQ89ZESaFGjbnANAtQAA</XPD:REF>
+<XPD:REF name="Views[5]">13cYR2qaWUWLQOmbREr/XgAA</XPD:REF>
+<XPD:REF name="Views[6]">meZKarEIfUyI9wYH81loRwAA</XPD:REF>
+<XPD:REF name="Views[7]">LSqxpRA2gEGw6sCqFGUGNwAA</XPD:REF>
 <XPD:ATTR name="#Operations" type="integer">3</XPD:ATTR>
 <XPD:OBJ name="Operations[0]" type="UMLOperation" guid="Hj97EHD3/kaD03qjLl7mswAA">
 <XPD:ATTR name="Name" type="string">OcuparEspacios</XPD:ATTR>
