@@ -2208,7 +2208,7 @@
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="qARpZnSwq0apTnTEhBjgWgAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="3671W/zvWUGW7Q0gmG3ftgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">GestionUsuarios</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">ValidarUsuarios</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="wFxPY6UUz0O9rfj/+1vKwwAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -2340,7 +2340,7 @@
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[1]" type="UMLClass" guid="WzbGWT36ZkScH69gQ6EwWAAA">
-<XPD:ATTR name="Name" type="string">GestionUsuarios</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">ValidarUsuarios</XPD:ATTR>
 <XPD:REF name="Namespace">/a96WCZX5kmcYEcy2YGSdgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">8</XPD:ATTR>
 <XPD:REF name="Views[0]">NBKz2Np1sE+llaE52rWiagAA</XPD:REF>
@@ -2353,20 +2353,20 @@
 <XPD:REF name="Views[7]">8RW3yeAurkaGES5xsBPMgQAA</XPD:REF>
 <XPD:ATTR name="#Operations" type="integer">2</XPD:ATTR>
 <XPD:OBJ name="Operations[0]" type="UMLOperation" guid="JCgDHZGEC06YO6jV1kM94gAA">
-<XPD:ATTR name="Name" type="string">agregarUsuario</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">adicionarUsuario</XPD:ATTR>
 <XPD:REF name="Owner">WzbGWT36ZkScH69gQ6EwWAAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
-<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="GgzWTxNqokGaVu3cJwUP1AAA">
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="BTGjXcG9ZEiLj2ZNBvi4mwAA">
 <XPD:ATTR name="Name" type="string">Usuario</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">JCgDHZGEC06YO6jV1kM94gAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="Operations[1]" type="UMLOperation" guid="eSSTeCAq706EoJIQb+xXsQAA">
-<XPD:ATTR name="Name" type="string">borrarUsuario</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">gestionarUsuario</XPD:ATTR>
 <XPD:REF name="Owner">WzbGWT36ZkScH69gQ6EwWAAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
-<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="PNdgMzLi7EWT5tcJyA3dSAAA">
-<XPD:ATTR name="Name" type="string">int</XPD:ATTR>
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="38Uo6HcIpkuOGDnsRIUzTAAA">
+<XPD:ATTR name="Name" type="string">String</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">cedula</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">eSSTeCAq706EoJIQb+xXsQAA</XPD:REF>
 </XPD:OBJ>

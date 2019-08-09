@@ -2362,10 +2362,10 @@
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="Operations[1]" type="UMLOperation" guid="eSSTeCAq706EoJIQb+xXsQAA">
-<XPD:ATTR name="Name" type="string">gestionarUsuario</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">verificarUsuario</XPD:ATTR>
 <XPD:REF name="Owner">WzbGWT36ZkScH69gQ6EwWAAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
-<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="38Uo6HcIpkuOGDnsRIUzTAAA">
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="5JVeAvc+skeOw27tLM8VUwAA">
 <XPD:ATTR name="Name" type="string">String</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">cedula</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">eSSTeCAq706EoJIQb+xXsQAA</XPD:REF>
